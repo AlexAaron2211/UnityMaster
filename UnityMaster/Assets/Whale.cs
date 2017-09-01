@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-public class Whale : MonoBehaviour {
+public class Whale : Fish {
 
 	// Use this for initialization
 	void Start () {

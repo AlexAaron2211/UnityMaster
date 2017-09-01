@@ -6,6 +6,9 @@ public class Creatures : MonoBehaviour {
 
 	// Use this for initialization
 	void Start () {
+		{
+			print("Creatures have spawned");
+		}
 		
 	}
 	
